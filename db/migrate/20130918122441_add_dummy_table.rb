@@ -6,4 +6,5 @@ class AddDummyTable < ActiveRecord::Migration
 
       t.timestamps
     end
-  endend
+  end
+end
